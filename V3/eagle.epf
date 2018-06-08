@@ -1,0 +1,19 @@
+[Eagle]
+Version="09 00 01"
+Platform="Windows"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="C:/cygwin64/home/highv/dev/proj/TCSPC_UROP/tcspc_eaglelib/tcspc_lib.lbr"
+UsedLibrary="C:/cygwin64/home/highv/dev/proj/small_laser_supply/small_laser_supply_eagleproj/small_laser_supply/small_laser_supply_lib.lbr"
+UsedLibrary="meltylib.lbr"
+
+[Win_1]
+Type="Control Panel"
+Number=0
+
+[Desktop]
+Screen="5760 2160"
+Window="Win_1"
